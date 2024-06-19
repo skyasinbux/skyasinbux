@@ -32,6 +32,7 @@ I'm a Software Developer from Bhubaneswar, India.
 ![](https://komarev.com/ghpvc/?username=skyasinbux) [![wakatime](https://wakatime.com/badge/user/273a8ad7-7da9-40e1-b835-1c388e5d4d7d.svg)](https://wakatime.com/@273a8ad7-7da9-40e1-b835-1c388e5d4d7d) ![Followers](https://img.shields.io/github/followers/skyasinbux?label=Followers) ![Stars](https://img.shields.io/github/stars/skyasinbux?label=Stars)
 
 </div>
+<div align="center">
 <img src="horizontal-divider-gradient.gif">
 
 - 🔭 I’m currently working on **Nextxen Learning**
@@ -43,7 +44,7 @@ I'm a Software Developer from Bhubaneswar, India.
 - 📫 How to reach me **yasinbux@gmail.com**
 
 - 📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.vercel.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sk-yasin-bux-0193ba201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-yasin-bux-0193ba201" height="30" width="40" /></a>

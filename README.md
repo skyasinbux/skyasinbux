@@ -51,7 +51,8 @@ I'm a Software Developer from Bhubaneswar, India.
 <a href="https://instagram.com/ya51n_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya51n_7" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img src="horizontal-divider-gradient.gif">
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -65,7 +66,6 @@ I'm a Software Developer from Bhubaneswar, India.
 </a>
 </p>
 
-<!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">
 
 <h3 align="left">Support:</h3>

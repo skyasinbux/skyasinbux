@@ -68,16 +68,6 @@ I'm a Software Developer from Bhubaneswar, India.
 
 <img src="horizontal-divider-gradient.gif">
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/skyasinbux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyasinbux" /></a><a href="https://ko-fi.com/skyasinbux"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skyasinbux" /></a></p><br><br>
-
-
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyasinbux&" alt="skyasinbux" /></p>
-<img src="horizontal-divider-gradient.gif">
-
-
 <!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">
 
@@ -112,7 +102,7 @@ I'm a Software Developer from Bhubaneswar, India.
 <img src="horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://skyasinbux.vercel.app/" target="_blank">Sk Yasin Bux</a>
 </div>
 
 <!--x axis divider-->

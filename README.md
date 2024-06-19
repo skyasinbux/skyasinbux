@@ -69,6 +69,6 @@ I'm a Software Developer from Bhubaneswar, India.
 <img src="horizontal-divider-gradient.gif">
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/skyasinbux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyasinbux" /></a><a href="https://ko-fi.com/skyasinbux"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skyasinbux" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/skyasinbux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyasinbux" /></a><a href="https://ko-fi.com/skyasinbux"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skyasinbux" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyasinbux&" alt="skyasinbux" /></p>

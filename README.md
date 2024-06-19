@@ -35,15 +35,15 @@ I'm a Software Developer from Bhubaneswar, India.
 <div align="center">
 <img src="horizontal-divider-gradient.gif">
 
-- 🔭 I’m currently working on **Nextxen Learning**
+🔭 I’m currently working on **Nextxen Learning**
 
-- 🌱 I’m currently learning **Express.js**
+ 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [https://skyasinbux.vercel.app/](https://skyasinbux.vercel.app/)
+ 👨‍💻 All of my projects are available at [https://skyasinbux.vercel.app/](https://skyasinbux.vercel.app/)
 
-- 📫 How to reach me **yasinbux@gmail.com**
+ 📫 How to reach me **yasinbux@gmail.com**
 
-- 📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.vercel.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
+ 📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.vercel.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

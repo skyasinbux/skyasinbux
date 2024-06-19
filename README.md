@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yasinbux@gmail.com**
 
-- 📄 Know about my experiences [https://skyasinbux.netlify.app/src/My_resume_yasin.pdf](https://skyasinbux.netlify.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
+- 📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.netlify.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

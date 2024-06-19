@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm SK YASIN BUX</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyasinbux&label=Profile%20views&color=0e75b6&style=flat" alt="skyasinbux" /> </p>
 <img src="horizontal-divider-gradient.gif">
 
 <picture> 

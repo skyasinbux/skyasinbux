@@ -1,6 +1,35 @@
-<h1 align="center">Hi 👋, I'm SK YASIN BUX</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img src="horizontal-divider-gradient.gif">
 
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'India';
+
+new Person({
+    name   : 'Sk Yasin Bux',
+    title  : 'Software Developer',
+    email  : 'yasinbux4@gmail.com',
+    website: 'https://skyasinbux.vercel.app/',
+    junior : !!!false,
+}).introduce();
+```
+
+```cmd
+skyasinbux@Yasins-Mac ~ %  node index.js
+Hi, my name is Sk Yasin Bux, I'm a Software Developer from Bhubaneswar, India.
+```
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=skyasinbux) [![wakatime](https://wakatime.com/badge/user/273a8ad7-7da9-40e1-b835-1c388e5d4d7d.svg)](https://wakatime.com/@273a8ad7-7da9-40e1-b835-1c388e5d4d7d) ![Followers](https://img.shields.io/github/followers/skyasinbux?label=Followers) ![Stars](https://img.shields.io/github/stars/skyasinbux?label=Stars)
+
+
+<h1 align="center">Hi 👋, I'm SK YASIN BUX</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyasinbux&label=Profile%20views&color=0e75b6&style=flat" alt="skyasinbux" /> </p>
 
 - 🔭 I’m currently working on **Nextxen Learning**

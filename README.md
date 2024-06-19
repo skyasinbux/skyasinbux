@@ -71,4 +71,10 @@ I'm a Software Developer from Bhubaneswar, India.
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/skyasinbux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyasinbux" /></a><a href="https://ko-fi.com/skyasinbux"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skyasinbux" /></a></p><br><br>
 
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyasinbux&" alt="skyasinbux" /></p>

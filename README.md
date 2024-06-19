@@ -88,7 +88,7 @@ I'm a Software Developer from Bhubaneswar, India.
 <!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/skyasinbux/skyasinbux/output/github-snake.svg)
 
 <!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">

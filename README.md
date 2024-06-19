@@ -45,8 +45,8 @@ I'm a Software Developer from Bhubaneswar, India.
 
  📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.vercel.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://linkedin.com/in/sk-yasin-bux-0193ba201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-yasin-bux-0193ba201" height="30" width="40" /></a>
 <a href="https://instagram.com/ya51n_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya51n_7" height="30" width="40" /></a>
 </p>

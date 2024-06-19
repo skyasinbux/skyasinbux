@@ -21,7 +21,8 @@ new Person({
 
 ```cmd
 skyasinbux@Yasins-Mac ~ %  node index.js
-Hi, my name is Sk Yasin Bux, I'm a Software Developer from Bhubaneswar, India.
+Hi, my name is Sk Yasin Bux,
+I'm a Software Developer from Bhubaneswar, India.
 ```
 
 <div align="center">

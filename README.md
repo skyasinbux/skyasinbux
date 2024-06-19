@@ -25,12 +25,15 @@ skyasinbux@Yasins-Mac ~ %  node index.js
 Hi, my name is Sk Yasin Bux,
 I'm a Software Developer from Bhubaneswar, India.
 ```
+<img src="horizontal-divider-gradient.gif">
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=skyasinbux) [![wakatime](https://wakatime.com/badge/user/273a8ad7-7da9-40e1-b835-1c388e5d4d7d.svg)](https://wakatime.com/@273a8ad7-7da9-40e1-b835-1c388e5d4d7d) ![Followers](https://img.shields.io/github/followers/skyasinbux?label=Followers) ![Stars](https://img.shields.io/github/stars/skyasinbux?label=Stars)
 
 </div>
+<img src="horizontal-divider-gradient.gif">
+
 - 🔭 I’m currently working on **Nextxen Learning**
 
 - 🌱 I’m currently learning **Express.js**

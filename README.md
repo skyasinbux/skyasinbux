@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SK YASIN BUX</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyasinbux&label=Profile%20views&color=0e75b6&style=flat" alt="skyasinbux" /> </p>
 <img src="horizontal-divider-gradient.gif">
 
 <picture> 
@@ -31,10 +30,7 @@ I'm a Software Developer from Bhubaneswar, India.
 
 ![](https://komarev.com/ghpvc/?username=skyasinbux) [![wakatime](https://wakatime.com/badge/user/273a8ad7-7da9-40e1-b835-1c388e5d4d7d.svg)](https://wakatime.com/@273a8ad7-7da9-40e1-b835-1c388e5d4d7d) ![Followers](https://img.shields.io/github/followers/skyasinbux?label=Followers) ![Stars](https://img.shields.io/github/stars/skyasinbux?label=Stars)
 
-
-<h1 align="center">Hi 👋, I'm SK YASIN BUX</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyasinbux&label=Profile%20views&color=0e75b6&style=flat" alt="skyasinbux" /> </p>
-
+</div>
 - 🔭 I’m currently working on **Nextxen Learning**
 
 - 🌱 I’m currently learning **Express.js**

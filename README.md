@@ -74,4 +74,4 @@ I'm a Software Developer from Bhubaneswar, India.
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyasinbux&" alt="skyasinbux" /></p>
+<p align="center"<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyasinbux&" alt="skyasinbux" />></p>

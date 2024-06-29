@@ -39,7 +39,7 @@ I'm a Software Developer from Bhubaneswar, India.
 
  🌱 I’m currently learning **Express.js**
 
- 👨‍💻 All of my projects are available at [[https://skyasinbux.vercel.app/](https://skyasinbux.vercel.app/]
+ 👨‍💻 All of my projects are available at [https://skyasinbux.vercel.app/](https://skyasinbux.vercel.app/)
 
  📫 How to reach me **yasinbux@gmail.com**
 

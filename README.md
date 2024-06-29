@@ -56,7 +56,7 @@ I'm a Software Developer from Bhubaneswar, India.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,python,tailwindcss,nodejs,express,java,mysql,c++,git,vscode,flutterflow,vercel,vite,netlify,css" />
 </a>
 </p>
 

@@ -43,7 +43,7 @@ I'm a Software Developer from Bhubaneswar, India.
 
  📫 How to reach me **yasinbux@gmail.com**
 
- 📄 Know about my experiences [https://skyasinbux.vercel.app/src/My_resume_yasin.pdf](https://skyasinbux.vercel.app/static/media/My_resume_yasin.8e5a9ed319e9bbb8eaab.pdf)
+ 📄 Know about my experiences [https://skyasinbux.vercel.app/static/media/My_resume_updated.ee218a5b2b8c40d2c03c.pdf](https://skyasinbux.vercel.app/static/media/My_resume_updated.ee218a5b2b8c40d2c03c.pdf)
 </div>
 <img src="horizontal-divider-gradient.gif">
 
